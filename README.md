@@ -108,9 +108,8 @@ Applied filters for department, job level, age group, region group.
 The workforce comprises 59% men (295) and 41% women (205).    
 
 ----Gender Distribution  
-There is a significant gender imbalance in the overall workforce
-Women are underrepresented particularly in senior positions (Directors and Executive levels)
-The imbalance becomes more pronounced at higher job levels  
+There is a significant gender imbalance in the overall workforce. Women are underrepresented particularly in senior positions (Directors and Executive levels)
+The imbalance becomes more pronounced at higher job levels   
 Lower promotion rates for women compared to men
 
 ------Performance Ratings  
@@ -120,13 +119,13 @@ However, this equal performance is not translating to equal promotion opportunit
 ### *Diversity & Inclusion---Root Causes for Slow Progress:*  
 a) Pipeline Issues:
 
-Limited pool of women in middle management positions
+Limited pool of women in middle management positions  
 Fewer women in roles that typically lead to executive positions
 
 b) Structural Barriers:
 
-Potential unconscious bias in promotion decisions
-Lack of sponsorship and mentorship programs
+Potential unconscious bias in promotion decisions  
+Lack of sponsorship and mentorship programs  
 Limited representation of women in decision-making roles
 
 c) Retention Challenges:
