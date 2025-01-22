@@ -24,11 +24,19 @@ Used slicers for Agent name, call topic and Date of call, pie charts on calls an
 <img width="758" alt="Image" src="https://github.com/user-attachments/assets/2c939eeb-d655-427b-84c1-4c44261036ea" />
 
 ### *Call Centre Trends--Insights*   
-Overall customer satisfaction  = 3.40   
-Overall calls answered/abandoned = 4054 were answered and 946 unanswered calls.     
+Overall customer satisfaction  = 3.40 implies a moderate value, indicating room for improvement in service quality.
+Overall calls answered/abandoned = 4054 were answered and 946 unanswered calls(needs immediate attention)     
 Calls by time as calls by month - Calls on February were answered most   
-Average speed of answer = 67.52  
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered  
+Average speed of answer = 67.52 implies long average speed of answer, indicates understaffing
+Overall Performance Range: 65.33s (Becky) to 70.99s (Joe), small 5.66s gap between fastest and slowest agents and performance is consistent across agents, with no major outliers.  
+Agent Breakdown Fastest: Becky (65.33s), Stewart (66.18s), Diane (66.27s), Middle: Jim (66.34s), Dan (67.28s), Greg (68.44s), Slowest: Martha (69.49s), Joe (70.99s)  
+
+### *Call Centre Trends--Recommendations*
+
+Address system delays and improve call routing.  
+Share best practices from fast responders and standardize processes.  
+Enhance call center tech and monitor queue lengths.  
+Implement speed improvement targets and reward high performers.
 
 ## Task 3: Customer Retention
 Create a Power BI dashboard for the Call Centre Manager on customer retention.
